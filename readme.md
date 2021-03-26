@@ -6,13 +6,13 @@
 - 循序渐进：前期的算法会更list的方式来做计算，可读性比较强，后期几乎完全为numpy.array的计算，并且辅助详细的注释。
 
 完成情况：
-- [x] perceptron
-- [x] KNN
-- [x] naive baysian
-- [x] 决策树
-- [x] 逻辑斯蒂回归
+- ✅ perceptron
+- ✅ KNN
+- ✅ naive baysian
+- ✅ 决策树
+- ✅ 逻辑斯蒂回归
 - [ ] SVM
-- [x] Adaboost
-- [x] GMM
-- [x] HMM
+- ✅ Adaboost
+- ✅ GMM
+- ✅ HMM
 - [ ] CRF
