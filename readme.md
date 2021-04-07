@@ -20,5 +20,5 @@
 # requirements
 <br>python 3.7</br>
 sklearn 0.21.3
-numpy 1.17.2
+<br>numpy 1.17.2</br>
 matplotlib 3.1.1
